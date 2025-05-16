@@ -4,6 +4,7 @@ export const Home = () => {
             <h1 className="text-5xl md:text-7xl font-bold mb-6  leading-right">
                 Hi, I'm Jaden Marquez
             </h1>
+            <h2 className="text-2xl">Welcome to my Portfolio!</h2>
 
             <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
                 Aspiring Software Engineer building practical, real-world solutions.
