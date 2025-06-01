@@ -22,18 +22,21 @@ A modern, responsive personal portfolio website built with **React** and **Vite*
 ---
 
 ## 📂 Project Structure
+
+```text
 PortfolioProject/
-├── public/ # Static assets
-├── src/ # Source code
-│ ├── components/ # Reusable components
-│ ├── pages/ # Page components
-│ ├── App.jsx # Root component
-│ └── main.jsx # Entry point
+├── public/             # Static assets
+├── src/                # Source code
+│   ├── components/     # Reusable components
+│   ├── pages/          # Page components
+│   ├── App.jsx         # Root component
+│   └── main.jsx        # Entry point
 ├── .gitignore
 ├── index.html
 ├── package.json
 ├── vite.config.js
 └── README.md
+
 
 
 
