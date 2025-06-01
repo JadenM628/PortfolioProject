@@ -47,7 +47,7 @@ export const Contact = () => {
             </form>
 
             <p className=" mt-20 text-gray-400 text-xl mb-8 max-w-lg mx-auto">
-                You can also connect with me through <strong>LinkedIn</strong>, <strong>GitHub</strong>, Or <strong>Email</strong> - Just use the icons below!
+                You can also connect with me through <strong className='text-blue-400'>LinkedIn</strong>, <strong className='text-purple-400'>GitHub</strong>, Or <strong className='text-white'>Email</strong> - Just use the icons below!
             </p>
         </div>
     </section>
