@@ -17,6 +17,7 @@ A modern, responsive personal portfolio website built with **React** and **Vite*
 
 - **Frontend**: React, Vite  
 - **Styling**: Tailwind CSS
+- **Languages**: JavaScript 
 - **Version Control**: Git & GitHub  
 
 ---
