@@ -10,7 +10,7 @@ export const Navbar = ({menuOpen, setMenuOpen}) => {
          <div className="w-full px-4">
            <div className="flex justify-between items-center h-16">
             <a href="#home" className="font-mono text-xl font-bold text-white">
-                 <img src="src\assets\JMLaptopLogo.png" alt="logo" className="w-16 h-auto" />
+                 <img src="/PortfolioProject/JMLaptopLogo.png" alt="logo" className="w-16 h-auto" />
             </a>
 
             {/* Mobile Dropdown Menu*/}
