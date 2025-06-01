@@ -1,5 +1,6 @@
 import emailjs from 'emailjs-com'
 import { useState } from 'react';
+import  Footer  from '../Footer'
 
 export const Contact = () => {
 
@@ -23,7 +24,7 @@ export const Contact = () => {
             }).catch(() => alert("Something went wrong. Please try again."))
         };
 
-    return <section id="contact" className="min-h-screen flex items-center justify-center py-20">
+    return <div className="flex flex-col min-h-screen"><section id="contact" className="min-h-screen flex items-center justify-center py-20">
         <div className="px-4 w-150">
             <h2 className="text-3xl font-bold mb-8">Contact Me</h2>
 
@@ -44,6 +45,12 @@ export const Contact = () => {
                     Send Message
                 </button>
             </form>
+
+            <p className=" mt-20 text-gray-400 text-xl mb-8 max-w-lg mx-auto">
+                You can also connect with me through <strong>LinkedIn</strong>, <strong>GitHub</strong>, Or <strong>Email</strong> - Just use the icons below!
+            </p>
         </div>
     </section>
+    
+    </div>
 };
