@@ -23,7 +23,7 @@ const Footer = () => {
           <FaGithub />
         </a>
         <a
-          href="mailto:your.jaden6280@gmail.com"
+          href="mailto:jaden6280@gmail.com"
           aria-label="Email"
           className="hover:text-white transition-colors text-2xl"
         >
