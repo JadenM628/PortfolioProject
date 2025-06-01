@@ -30,7 +30,7 @@ export const About = () => {
     return <section id="about" className="min-h-screen flex items-center justify-center py-20">
         <div className="max-w-3xl mx-auto px-4">
             <h2 className="text-3xl font-bold mb-8">About Me</h2>
-            <img src="/PortfolioProject/ProfilePicture.jpg" alt="ProfilePic" className="w-96 h-96 rounded-full mx-auto block" />
+            <img src="/PortfolioProject/ProfilePicture.jpg" alt="ProfilePic" className="w-60 h-60 sm:w-72 sm:h-72 md:w-96 md:h-96 rounded-full mx-auto block" />
 
             <div>
                 <p className="pt-4">
