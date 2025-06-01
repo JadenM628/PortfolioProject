@@ -16,7 +16,7 @@ A modern, responsive personal portfolio website built with **React** and **Vite*
 ## 🛠️ Tech Stack
 
 - **Frontend**: React, Vite  
-- **Styling**: CSS Modules / Tailwind CSS *(specify if used)*  
+- **Styling**: Tailwind CSS
 - **Version Control**: Git & GitHub  
 
 ---
